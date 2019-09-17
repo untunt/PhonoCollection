@@ -77,11 +77,11 @@
 
 ## References
 
-1. [Phags-pa](https://www.unicode.org/charts/PDF/UA840.pdf). [Unicode 12.1 Character Code Charts](https://www.unicode.org/charts/). **2019**.
+1. [*Phags-pa*](https://www.unicode.org/charts/PDF/UA840.pdf). [Unicode 12.1 Character Code Charts](https://www.unicode.org/charts/). **2019**.
 2. 照那斯图, 杨耐思. 蒙古字韵字母正体及转写表. 蒙古字韵校本. 北京: 民族出版社, **1987**: 7–8.
 3. 宋洪民. 元代蒙、汉语言接触在喉音声母和复元音韵母上的表现——论蒙语音系对《蒙古字韵》标音体系的影响. 中国语文, **2017**, (2): 195–208.
 4. W. South Coblin. Analysis and Interpretation of the 'Phags-pa Alphabet. [*A Handbook of 'Phags-Pa Chinese*](https://www.jstor.org/stable/j.ctt6wr4xs). Honolulu: University of Hawaiʻi Press, **2007**: 32–68.
-5. [Phags-pa Script](http://www.babelstone.co.uk/Phags-pa/). BabelStone. **2006**.
+5. [*Phags-pa Script*](http://www.babelstone.co.uk/Phags-pa/). BabelStone. **2006**.
 6. [八思巴字](http://www.ccamc.org/phagspa_intro.php). 古今文字集成.
 7. 照那斯图. 八思巴字蒙古语文献的语音系统. 民族语文, **2007**, (2): 44–51.
-8. Turrell Wylie. [A Standard System of Tibetan Transcription](<https://www.jstor.org/stable/2718544>). Harvard Journal of Asiatic Studies, **1959**, *22*: 261–267.
+8. Turrell Wylie. [A Standard System of Tibetan Transcription](<https://www.jstor.org/stable/2718544>). *Harvard Journal of Asiatic Studies*, **1959**, *22*: 261–267.
