@@ -93,8 +93,8 @@
 | 4    | or          | o˞    | uo˞   |
 | 5    | uor         | wo˞   | uo˞   |
 | 6    | er          | ɤ˞    | ɤ˞    |
-| 7    | ier         | jɚ    | iɚ    |
-| 8    | üer         | ɥɚ    | yɚ    |
+| 7    | ier         | jɝ    | iɚ    |
+| 8    | üer         | ɥɝ    | yɚ    |
 | 9    | ur          | ʊ˞    | u˞    |
 | 9a   | ur₁         | ʋ̩͡ʊ˞   | u˞    |
 | 10   | anr/air     | ɐɻ    | aɚ    |
@@ -119,7 +119,7 @@
 | 29   | iongr       | jʊ̃˞   | ĩũ˞   |
 
 - *ur*₁: *ur* after *f*.
-- *ir*₁: *ir* after *zh*, *ch*, *sh*, *r*, *z*, *c*, and *s*.
+- *ir*₁: *ir* after *zh*, *ch*, *sh*, *r*, *z*, *c*, and *s*. IPA-L transcribes *ir₁* as [ɹ̩ɚ], different from *enr/eir*. This should be incorrect for Standard Chinese or Beijing Mandarin.
 
 ## Tones
 
