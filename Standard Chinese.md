@@ -59,7 +59,7 @@
 | 21   | iu     | joʊ   | iou   |
 | 22   | an     | an    | an    |
 | 23   | ian    | jɛn   | ien   |
-| 24   | uan    | wan   | wan   |
+| 24   | uan    | wan   | uan   |
 | 25   | üan    | ɥæn   | yen   |
 | 26   | en     | ən    | ən    |
 | 27   | in     | in    | in    |
