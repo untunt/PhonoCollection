@@ -15,15 +15,15 @@
 | 9    | g      | k     | k     |
 | 10   | k      | kʰ    | kʰ    |
 | 11   | h      | x     | x     |
-| 12   | j      | t͡ɕ    | tɕ    |
-| 13   | q      | t͡ɕʰ   | tɕʰ   |
+| 12   | j      | tɕ    | tɕ    |
+| 13   | q      | tɕʰ   | tɕʰ   |
 | 14   | x      | ɕ     | ɕ     |
-| 15   | zh     | t͡ʂ    | tʃ̺    |
-| 16   | ch     | t͡ʂʰ   | tʃ̺ʰ   |
+| 15   | zh     | tʂ    | tʃ̺    |
+| 16   | ch     | tʂʰ   | tʃ̺ʰ   |
 | 17   | sh     | ʂ     | ʃ̺     |
 | 18   | r      | ɻ     | ɹ̺     |
-| 19   | z      | t͡s    | ts    |
-| 20   | c      | t͡sʰ   | tsʰ   |
+| 19   | z      | ts    | ts    |
+| 20   | c      | tsʰ   | tsʰ   |
 | 21   | s      | s     | s     |
 | 22   | ∅      | ∅     | ∅     |
 
@@ -96,7 +96,6 @@
 | 7    | ier         | jɝ    | iɚ    |
 | 8    | üer         | ɥɝ    | yɚ    |
 | 9    | ur          | ʊ˞    | u˞    |
-| 9a   | ur₁         | ʋ̩͡ʊ˞   | u˞    |
 | 10   | anr/air     | ɐɻ    | aɚ    |
 | 11   | ianr        | jɐɻ   | iəɚ   |
 | 12   | uanr/uair   | wɐɻ   | ua˞ɚ  |
@@ -118,8 +117,7 @@
 | 28   | ongr        | ʊ̃˞    | ũ˞    |
 | 29   | iongr       | jʊ̃˞   | ĩũ˞   |
 
-- *ur*₁: *ur* after *f*.
-- *ir*₁: *ir* after *zh*, *ch*, *sh*, *r*, *z*, *c*, and *s*. IPA-L transcribes *ir₁* as [ɹ̩ɚ], different from *enr/eir*. This should be incorrect for Standard Chinese or Beijing Mandarin.
+- *ir*₁: *ir* after *zh*, *ch*, *sh*, *r*, *z*, *c*, and *s*. IPA-L transcribes *ir₁* as [ɹ̩ɚ], different from *enr/eir*. This is incorrect for Standard Chinese or Beijing Mandarin.
 
 ## Tones
 
@@ -131,7 +129,7 @@
 | 4    | ◌̀      | ˥˩    | ˥˩    |
 | 5    | ∅      | ∅     | *     |
 
-- ∅: Neutral tone (轻声). In IPA-U, no tone letters are written for neutral-tone syllables. In IPA-L, neutral tones are ˧˩, ˥˩, ˧, and ˩ when following the 1st, 2nd, 3rd, and 4th tones, respectively.
+- ∅: Neutral tone (轻声). In IPA-U, no tone letters are written for neutral-tone syllables. In IPA-L, neutral tones are ˧˩, ˥˩, ˧, and ˩ when following the 1<sup>st</sup>, 2<sup>nd</sup>, 3<sup>rd</sup>, and 4<sup>th</sup> tones, respectively.
 
 ## Field Description
 
