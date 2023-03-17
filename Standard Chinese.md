@@ -73,7 +73,7 @@
 | 35   | ueng   | wɤŋ   | uəŋ   |
 | 36   | ong    | ʊŋ    | uŋ    |
 | 37   | iong   | jʊŋ   | iuŋ   |
-| 38   | er     | əɻ    | ɚ     |
+| 38   | er     | ɚ     | ɚ     |
 | 39   | m      | m̩     | /     |
 | 40   | n      | n̩     | /     |
 | 41   | ng     | ŋ̍     | /     |
@@ -81,7 +81,7 @@
 - *i*₁: *i* after *z*, *c*, and *s*.
 - *i*₂: *i* after *zh*, *ch*, *sh*, and *r*.
 - *u*₁: *u* after *f*.
-- Although *èr* (二, 贰) is pronounced [ɐɻ˥˩] by a number of speakers now, the conservative varient [əɻ˥˩] is still used in IPA-U.
+- Although *èr* (二, 贰) is pronounced [ɐɚ˥˩] by most speakers now, its conservative varient [ɚ˥˩] is still used in IPA-U for simplicity.
 
 ## Rhotacized Finals
 
@@ -96,14 +96,14 @@
 | 7    | ier         | jɝ    | iɚ    |
 | 8    | üer         | ɥɝ    | yɚ    |
 | 9    | ur          | ʊ˞    | u˞    |
-| 10   | anr/air     | ɐɻ    | aɚ    |
-| 11   | ianr        | jɐɻ   | iəɚ   |
-| 12   | uanr/uair   | wɐɻ   | ua˞ɚ  |
-| 13   | üanr        | ɥɐɻ   | yəɚ   |
-| 14   | enr/eir/ir₁ | əɻ    | əɚ    |
-| 15   | inr/ir      | iəɻ   | iɚ    |
-| 16   | unr/uir     | wəɻ   | uəɚ   |
-| 17   | ünr/ür      | yəɻ   | yɚ    |
+| 10   | anr/air     | ɐɚ    | aɚ    |
+| 11   | ianr        | jɐɚ   | iəɚ   |
+| 12   | uanr/uair   | wɐɚ   | ua˞ɚ  |
+| 13   | üanr        | ɥɐɚ   | yəɚ   |
+| 14   | enr/eir/ir₁ | ɚ     | əɚ    |
+| 15   | inr/ir      | iɚ    | iɚ    |
+| 16   | unr/uir     | wɚ    | uəɚ   |
+| 17   | ünr/ür      | yɚ    | yɚ    |
 | 18   | aor         | ɑ˞ʊ˞  | au˞   |
 | 19   | iaor        | jɑ˞ʊ˞ | ia˞u˞ |
 | 20   | our         | o˞ʊ˞  | ou˞   |
